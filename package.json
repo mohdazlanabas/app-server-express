@@ -1,0 +1,18 @@
+{
+  "name": "servernodeexpress",
+  "version": "1.0.0",
+  "description": "simple knowledge base app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Azlan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
